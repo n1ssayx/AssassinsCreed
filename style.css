@@ -1,0 +1,19 @@
+body{
+    color: #C7C8CA;
+    background-color: white;
+    background: linear-gradient(to left, #2D2C2E, #691a1e
+    );
+}
+h1{
+    position: relative;top: 0px;left: 0px; margin-left: 70px; margin-right: 70px;
+    color: #C7C8CA;
+}
+header{
+    background: linear-gradient(to left, #691a1e, #2D2C2E);
+    background-color: red;
+    border-radius: 30px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.35);
+    overflow: hidden;
+    position: relative;
+    width: 365px;
+}
